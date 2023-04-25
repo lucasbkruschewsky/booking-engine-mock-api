@@ -2,11 +2,42 @@
   "tickets": [
     {
       "title": "Title A",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur eleifend elit quis molestie. Proin placerat erat at pharetra sollicitudin. In id velit massa."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur eleifend elit quis molestie. Proin placerat erat at pharetra sollicitudin. In id velit massa.",
+      "ticketTypes": [
+        {
+          "price": "10.00",
+          "bookingFee": "2.50",
+          "ticketType": "Adult ticket",
+          "currencyCode": "£",
+          "maxValue": 8,
+          "minValue": 0,
+          "availabile": 10
+        },
+        {
+          "price": "2.60",
+          "bookingFee": "2.50",
+          "ticketType": "Child ticket",
+          "currencyCode": "£",
+          "maxValue": 5,
+          "minValue": 0,
+          "availabile": 10
+        }
+      ]
     },
     {
       "title": "Title B",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur eleifend elit quis molestie. Proin placerat erat at pharetra sollicitudin. In id velit massa."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur eleifend elit quis molestie. Proin placerat erat at pharetra sollicitudin. In id velit massa.",
+      "ticketTypes": [
+        {
+          "price": "25.00",
+          "bookingFee": "2.50",
+          "ticketType": "VIP ticket",
+          "currencyCode": "£",
+          "maxValue": 3,
+          "minValue": 0,
+          "availabile": 10
+        }
+      ]
     }
   ]
 }
