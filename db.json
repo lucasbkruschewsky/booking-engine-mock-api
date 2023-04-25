@@ -1,0 +1,12 @@
+{
+  "tickets": [
+    {
+      "title": "Title A",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur eleifend elit quis molestie. Proin placerat erat at pharetra sollicitudin. In id velit massa."
+    },
+    {
+      "title": "Title B",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur eleifend elit quis molestie. Proin placerat erat at pharetra sollicitudin. In id velit massa."
+    }
+  ]
+}
